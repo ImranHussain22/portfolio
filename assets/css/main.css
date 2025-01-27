@@ -782,7 +782,6 @@ section,
   padding: 60px 0;
   scroll-margin-top: 98px;
   overflow: clip;
-  height: 100vh;
 }
 
 @media (max-width: 1199px) {
